@@ -1,2 +1,2 @@
 # git_test
-"Hello Odinson!"
+"Hello Odinson! git push test now!!"
